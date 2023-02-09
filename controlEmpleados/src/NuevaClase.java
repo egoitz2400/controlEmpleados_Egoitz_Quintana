@@ -1,8 +1,9 @@
 
 public class NuevaClase {
 
-	public NuevaClase() {
-		// TODO Auto-generated constructor stub
+	public static void main(String[] args) {
+		System.out.println("En la rama. Se crea la clase nueva");
+
 	}
 
 }
